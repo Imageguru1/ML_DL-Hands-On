@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+jupyterlab
+joblib
+mlflow
+fastapi
+uvicorn
+python-dotenv
+
+# Recommended deep learning stack
+# Uncomment one of the following based on your preference:
+# torch
+# tensorflow
